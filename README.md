@@ -25,8 +25,7 @@ present(imageViewer, animated: true, completion: nil)
 
 ### Master
 
-- iOS 8.0+
-- Xcode 10.2+ (Swift 5)
+- iOS 12.0+
 
 ### [1.5.2](https://github.com/wxxsw/GSImageViewerController/tree/1.5.2)
 
@@ -49,17 +48,6 @@ present(imageViewer, animated: true, completion: nil)
 - Xcode 7 (Swift 2)
 
 ## Installation
-
-### [CocoaPods](http://cocoapods.org/):
-
-In your `Podfile`:
-```
-source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '8.0'
-use_frameworks!
-
-pod "GSImageViewerController"
-```
 
 And in your `*.swift`:
 ```swift
